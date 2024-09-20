@@ -1,2 +1,2 @@
 # FaceLandmark
-detect Face Landmark and show FPS
+detect Face, Face Landmark and show FPS
